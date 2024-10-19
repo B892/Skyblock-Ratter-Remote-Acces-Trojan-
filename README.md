@@ -16,7 +16,7 @@ Takes Gmail,Password,Name,Session id to your discord. Make sure to put right web
 If there comes like Windows Protected Your Pc or Windows defender warning its just bacause inside that file is the rat that will be generated after you press generate file button.
 I made it like that it will edit itself when detecting new webhook so you can change it anytime you want and the generation code is hidden in the code so thats why windows defender give you warning.
 
-Windows protector thinks that its virus because of the code. Why the code is hidden? Ist because you cant get ratted back with the same rat and the code will be saved to you computer.
+Windows defender thinks that its virus because of the code. Why the code is hidden? Ist because you cant get ratted back with the same rat and the code will be saved to you computer.
 
 Remember that RATTING is illegal i made this beacuse you can test to your friends or someone else. But remember that its illegal to have someones password without his permission.
 
